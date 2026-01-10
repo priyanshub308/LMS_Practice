@@ -1,0 +1,2 @@
+cd ..                 ------ To go back in the directory
+cd 'path'             ------ To go to the desired path

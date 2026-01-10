@@ -1,0 +1,9 @@
+-------- To pull the repo from the github
+git clone https://github.com/priyanshub308/LMS_Practice.git 
+
+
+----- To check the current branch
+git branch
+
+----- to check the current status of modified files
+git status
