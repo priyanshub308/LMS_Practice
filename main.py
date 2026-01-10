@@ -1,0 +1,1 @@
+print("This is the main.py file of the LMS_Practice module.")
