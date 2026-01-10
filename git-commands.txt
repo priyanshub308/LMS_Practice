@@ -7,3 +7,12 @@ git branch
 
 ----- to check the current status of modified files
 git status
+
+---- To add the files in the branch
+git add .
+
+---- After adding need to commit
+git commit -m "Added gitcommands.txt and powershell.txt"
+
+---- push the code to desired branch
+git push origin learning-docs-or-commands
