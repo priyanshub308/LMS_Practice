@@ -16,3 +16,6 @@ git commit -m "Added gitcommands.txt and powershell.txt"
 
 ---- push the code to desired branch
 git push origin learning-docs-or-commands
+
+---- pull the current code in the branch
+git pull origin learning-docs-or-commands
