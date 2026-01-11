@@ -3,7 +3,7 @@ git clone https://github.com/priyanshub308/LMS_Practice.git
 
 -------- To change the current branch
 git checkout 'branch name'
-git switch origin 'branch name'
+git switch -c 'branch name'
 
 ----- To check the current branch
 git branch
@@ -19,3 +19,12 @@ git commit -m "Added gitcommands.txt and powershell.txt"
 
 ---- push the code to desired branch
 git push origin learning-docs-or-commands
+git push -f origin learning-docs-or-commands      ---- fast forward method ignore the changes.
+
+
+---- pull the code from the origin branch overwriting method
+git branch          ---- check the current branch
+git fetch origin       ----- pull code but not yet in the local
+git reset --hard origin/branch-name
+
+
