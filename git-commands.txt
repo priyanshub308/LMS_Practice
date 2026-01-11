@@ -1,6 +1,9 @@
 -------- To pull the repo from the github
 git clone https://github.com/priyanshub308/LMS_Practice.git 
 
+-------- To change the current branch
+git checkout 'branch name'
+git switch origin 'branch name'
 
 ----- To check the current branch
 git branch
